@@ -1,0 +1,49 @@
+body{
+    font-family: 'Raleway', sans-serif;}
+
+/* Navbar */
+
+.navbar-brand img{
+    width: 25px;
+
+}
+
+/* Quiénes Somos */
+
+#Quienes-somos{
+    background-color: black;
+}
+
+#Quienes-somos h3{
+    font-size: 25px;
+}
+
+/* Destacados */
+
+#Destacados{
+    background-color: black;
+
+}
+
+#Destacados h3{
+    font-size: 25px;
+}
+
+/* Contacto */
+
+#Contacto{
+    background-color: black;
+
+}
+
+/* Footer */
+
+#Footer h2{
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#Footer a{
+    color: white;
+    text-decoration: none;
+}
